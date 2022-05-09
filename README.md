@@ -1,7 +1,9 @@
-# MIMIC-on-SparkSQL
-Small Scala/JVM project for loading MIMIC-III datafiles into a persistent Spark SQL database.
+# Original Repository 
+https://github.com/h4ste/mimic-on-spark
 
 # Compiling
+The rest is taken from the original repository.
+
 To compile, run:
 ```shell
 ./gradlew jar
